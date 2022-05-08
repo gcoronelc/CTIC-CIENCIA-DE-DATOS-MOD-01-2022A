@@ -14,7 +14,7 @@
 - Nombre: Juan Antonio Chipoco Vidal
 - Correo: jchipoco@gmail.com 
 
-## Coordinado 
+## Coordinador
 
 - Nombre: Ing. ERIC GUSTAVO CORONEL CASTILLO
 - Correo: gcoronel@uni.edu.pe
