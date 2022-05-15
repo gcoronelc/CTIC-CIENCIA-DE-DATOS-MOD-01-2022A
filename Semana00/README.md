@@ -1,4 +1,4 @@
-# VIDEOS DE LA SEMANA 1
+# VIDEOS DE LA SEMANA 0
 
 ## Video clase introducción
 
