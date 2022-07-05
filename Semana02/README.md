@@ -2,8 +2,8 @@
 
 ## Video de seminario
 
-[![Seminario](https://img.youtube.com/vi/j61FhRY9IIQ/0.jpg)](https://www.youtube.com/watch?v=j61FhRY9IIQ)
+[![Seminario](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022A/main/img/youtube.png)](https://www.youtube.com/watch?v=j61FhRY9IIQ)
 
 ## Video de clase
 
-[![Clase](https://img.youtube.com/vi/UJkn0MyR8uI/0.jpg)](https://www.youtube.com/watch?v=UJkn0MyR8uI)
+[![Clase](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022A/main/img/youtube.png)](https://www.youtube.com/watch?v=UJkn0MyR8uI)
